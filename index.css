@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 60px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+    color: green;
+}
+
+table {
+    margin-top: 50px;
+}
+
+.btn {
+    background-color: rgb(27, 129, 27);
+    color: white;
+}
+
+.expenseForm {
+    border: 3px dashed dimgrey;
+    margin: 30px;
+    padding: 20px;
+}
